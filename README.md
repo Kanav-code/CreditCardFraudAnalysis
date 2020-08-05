@@ -8,5 +8,5 @@ I gathered my data from a Kaggle dataset which contained 285,000 rows of data an
 * Decision Tree Classifier
 * Logistic Regression
 * Random Forest Classifier
-
-* Improved the model accuracy using hyperparameter tuning techniques like Grid Search CV.
+<b>
+Improved the model accuracy using hyperparameter tuning techniques like Grid Search CV.
